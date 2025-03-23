@@ -1,4 +1,4 @@
-# DBL-group-13
+# DBL-DataChallenge
 
 Run **data_loading_w_sentiment.py** to create a SQL database of the data that is placed in /test_data/ folder. It immediately applies sentiment analysis<br> 
 
